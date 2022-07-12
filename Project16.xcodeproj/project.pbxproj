@@ -14,6 +14,7 @@
 		AB1924DE286EE38900D09141 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB1924DD286EE38900D09141 /* Assets.xcassets */; };
 		AB1924E1286EE38900D09141 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB1924DF286EE38900D09141 /* LaunchScreen.storyboard */; };
 		AB1924E9286EEAA500D09141 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB1924E8286EEAA500D09141 /* Capital.swift */; };
+		ABA25F88287C1A9A00656ABB /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA25F87287C1A9A00656ABB /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AB1924E0286EE38900D09141 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB1924E2286EE38900D09141 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AB1924E8286EEAA500D09141 /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
+		ABA25F87287C1A9A00656ABB /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				AB1924D4286EE38600D09141 /* AppDelegate.swift */,
 				AB1924D6286EE38600D09141 /* SceneDelegate.swift */,
 				AB1924D8286EE38600D09141 /* ViewController.swift */,
+				ABA25F87287C1A9A00656ABB /* DetailViewController.swift */,
 				AB1924DA286EE38600D09141 /* Main.storyboard */,
 				AB1924E8286EEAA500D09141 /* Capital.swift */,
 				AB1924DD286EE38900D09141 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			files = (
 				AB1924D9286EE38600D09141 /* ViewController.swift in Sources */,
 				AB1924D5286EE38600D09141 /* AppDelegate.swift in Sources */,
+				ABA25F88287C1A9A00656ABB /* DetailViewController.swift in Sources */,
 				AB1924E9286EEAA500D09141 /* Capital.swift in Sources */,
 				AB1924D7286EE38600D09141 /* SceneDelegate.swift in Sources */,
 			);
